@@ -17,6 +17,7 @@ public class Application {
 		String[][] data = GenericMethods.getData("D:\\SelSept7\\TestData.xlsx", "Sheet2");
 		for(int i =1;i<data.length;i++) {
 			String keyword = data[i][3];
+			//making code changes after release 1.1
 			switch(keyword) {
 				case "openBrowser":
 					mt.openBrowser();

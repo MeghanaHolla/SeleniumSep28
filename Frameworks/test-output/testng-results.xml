@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99319" started-at="2019-09-28T02:32:13Z" finished-at="2019-09-28T02:33:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99319" started-at="2019-09-28T02:32:13Z" finished-at="2019-09-28T02:33:52Z">
+      <class name="kdf.Application">
+        <test-method status="PASS" signature="verifyInvalidCredentials()[pri:0, instance:kdf.Application@cc285f4]" name="verifyInvalidCredentials" duration-ms="99170" started-at="2019-09-28T02:32:13Z" finished-at="2019-09-28T02:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentials -->
+      </class> <!-- kdf.Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
